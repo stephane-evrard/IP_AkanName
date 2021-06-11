@@ -17,7 +17,7 @@
 ##  live link
     [https://github.com/stephane-evrard](https://stephane-evrard.github.io/IP_AkanName/index.html)
 ##   Technologies used.
-    HTML, CSS, JavaScript
+    HTML, CSS, JavaScript, Bootstrap
 
 ##  Contact information.
     Email: gozzo.ded@student.moringaschool.com
