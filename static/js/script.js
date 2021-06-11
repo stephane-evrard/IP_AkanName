@@ -13,3 +13,13 @@ function checkTheInput() {
         "Kofi",
         "Kwame"
     ];
+    // DECLARE OUR FEMALE ARRAY
+    var female = [
+        "Akosua", 
+        "Adwoa", 
+        "Abenaa", 
+        "Akua", 
+        "Yaa", 
+        "Afua",
+        "Ama"
+    ];
