@@ -20,6 +20,7 @@
     HTML, CSS, JavaScript
 
 ##  Contact information.
+    Email: gozzo.ded@student.moringaschool.com
 
 ##  License and Copyright information.
     Copyright 2021 Stephane Evrard Ded Gozzo
