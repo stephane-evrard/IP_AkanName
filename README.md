@@ -14,7 +14,7 @@
     - Click the submit button to see what my Akan name would be
 
 ##  live link
-    []()
+    [Github](https://stephane-evrard.github.io/IP_AkanName/index.html)
 ##   Technologies used.
     HTML, CSS, JavaScript
 
