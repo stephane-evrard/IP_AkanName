@@ -49,3 +49,4 @@ function checkTheInput() {
     }
 
 } 
+var date = new Date(dob); 
