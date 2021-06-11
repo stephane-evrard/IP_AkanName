@@ -3,3 +3,13 @@ function checkTheInput() {
     var dob = document.forms["loginForm"]["dob"].value;
     var gender = document.forms["loginForm"]["gender"].value;
     var date = new Date(dob);
+    // DECLARE OUR MALE ARRAY
+    var male = [
+        "Kwasi", 
+        "Kwadwo", 
+        "Kwabena", 
+        "Kwaku", 
+        "Yaw", 
+        "Kofi",
+        "Kwame"
+    ];
