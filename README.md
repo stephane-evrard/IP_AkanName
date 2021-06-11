@@ -8,6 +8,7 @@
     Stephane Evrard Ded Gozzo
 
 ##  Setup instructions - includes any scripts that need to be run if necessary.
+    First enter  date and gender then press Go Date Born.
 
 ##  BDD.
     - See a  small description of what the application does on the landing page.
