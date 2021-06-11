@@ -1,0 +1,22 @@
+.bg-light-blue {
+    background: hsl(40, 93%, 85%);
+}
+
+.bg-start {
+    background: hsl(222, 51%, 93%);
+}
+
+.bg-body {
+    border-radius: 25px;
+}
+
+.card {
+    box-shadow: 0 5px 10px black;
+    border-radius: 5px;
+}
+
+.area-text {
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(104, 104, 230);
+}
