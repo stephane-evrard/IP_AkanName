@@ -23,3 +23,11 @@ function checkTheInput() {
         "Afua",
         "Ama"
     ];
+    // DECLARE VARIABLES FOR YEAR, MONTH, DAY AND CALCULATION
+    var YY = date.getFullYear();
+    var MM = date.getMonth();
+    var DD = date.getDate();
+    var CC = parseInt(YY.toString().slice(0,2));
+    var calculation =  ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) % 7;
+    // CONVERT CALCULATION VARIABLE IN INTEGER
+    calculation = parseInt(calculation);
