@@ -41,3 +41,11 @@ function checkTheInput() {
         document.loginForm.gender.focus();
         return false;
     }
+    // CHECK IF GENDER IS MALE OR FEMALE AND CHECK THE ARRAY INDEX TO RETURN THE NAME
+    if(gender == 'male') {
+        alert("Your Akan name is: "+male[calculation]);
+    } else if (gender == 'female') {
+        alert("Your Akan name is: "+female[calculation]);
+    }
+
+} 
